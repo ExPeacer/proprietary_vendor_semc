@@ -122,6 +122,7 @@ PRODUCT_COPY_FILES += \
     vendor/semc/mango/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/semc/mango/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/semc/mango/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+    vendor/semc/mango/proprietary/lib/libwvm.so:/system/lib/libwvm.so \
     vendor/semc/mango/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/semc/mango/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/semc/mango/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
