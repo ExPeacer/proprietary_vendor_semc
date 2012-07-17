@@ -7,6 +7,5 @@ key 114   VOLUME_DOWN       WAKE
 
 # CAMERA Related Key
 key 212   CAMERA
-key 102   HOME
 key 528   FOCUS
-
+key 102   HOME
